@@ -21,7 +21,8 @@ In this exercise we analyze and visualize monitor data using six-sigma technique
 # 🧩 3️⃣ Basic TCD Bar Chart
 <img width="442" height="496" alt="image" src="https://github.com/user-attachments/assets/8b625e70-af85-46d4-b420-6674a8dadb3a" />
 <img width="309" height="123" alt="image" src="https://github.com/user-attachments/assets/d865a68f-2091-43f7-b843-7021743a8a0a" />
-<img width="599" height="672" alt="image" src="https://github.com/user-attachments/assets/f11eaeaf-140e-48b3-9fa4-b75b863c086d" />
+<img width="590" height="677" alt="image" src="https://github.com/user-attachments/assets/9d6fe13f-fd94-41b2-beed-e5e93cd2136e" />
+
 
 # 🧩 4️⃣ Pareto Chart (80/20 Rule)
 <img width="557" height="497" alt="image" src="https://github.com/user-attachments/assets/b4e30519-ee58-491a-b5c8-243ac4f3c07f" />
